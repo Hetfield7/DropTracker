@@ -11,3 +11,4 @@ An organized list of active and upcoming airdrops across multiple chains, design
 8- Somnia
 9- Linea
 10- Acurast
+11- Tea-Fi
