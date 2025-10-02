@@ -10,3 +10,4 @@ An organized list of active and upcoming airdrops across multiple chains, design
 7- Edgen 
 8- Somnia
 9- Linea
+10- Acurast
