@@ -7,3 +7,4 @@ An organized list of active and upcoming airdrops across multiple chains, design
 4- Ink
 5- Soneium
 6- Base
+7- Edgen 
