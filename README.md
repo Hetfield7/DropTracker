@@ -18,3 +18,4 @@ An organized list of active and upcoming airdrops across multiple chains, design
 15- 0G Protocol
 16- Human
 17- Pharos
+18- Taiko
