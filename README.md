@@ -17,3 +17,4 @@ An organized list of active and upcoming airdrops across multiple chains, design
 14- idOS
 15- 0G Protocol
 16- Human
+17- Pharos
