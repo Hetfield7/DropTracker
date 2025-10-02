@@ -12,3 +12,4 @@ An organized list of active and upcoming airdrops across multiple chains, design
 9- Linea
 10- Acurast
 11- Tea-Fi
+12- Play Hub
