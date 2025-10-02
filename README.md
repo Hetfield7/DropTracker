@@ -16,3 +16,4 @@ An organized list of active and upcoming airdrops across multiple chains, design
 13- Pulse
 14- idOS
 15- 0G Protocol
+16- Human
