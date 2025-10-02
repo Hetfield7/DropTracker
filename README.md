@@ -20,3 +20,4 @@ An organized list of active and upcoming airdrops across multiple chains, design
 17- Pharos
 18- Taiko
 19- Monad
+20- Pi Squarred
