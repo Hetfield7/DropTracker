@@ -5,3 +5,4 @@ An organized list of active and upcoming airdrops across multiple chains, design
 2- Nexus
 3- Plume
 4- Ink
+5- Soneium
