@@ -3,7 +3,7 @@ An organized list of active and upcoming airdrops across multiple chains, design
 
 1- Opensea Chests
 2- Nexus
-3- Plume
+3- Plume Season 2
 4- Ink
 5- Soneium
 6- Base
