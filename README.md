@@ -25,3 +25,4 @@ An organized list of active and upcoming airdrops across multiple chains, design
 22- Cetus
 23- Owlto
 24- Orochi Network
+25- 
