@@ -6,9 +6,9 @@ An organized list of active and upcoming airdrops across multiple chains, design
 3- Plume Season 2
 4- Ink 
 5- Soneium Badges
-6- Base
+6- Base 
 7- Edgen 
-8- Somnia
+8- Somnia Quest
 9- Linea
 10- Acurast
 11- Tea-Fi
