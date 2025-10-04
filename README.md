@@ -22,4 +22,4 @@ An organized list of active and upcoming airdrops across multiple chains, design
 19- Monad
 20- Pi Squarred
 21- Intuition
-Cetus
+22- Cetus
