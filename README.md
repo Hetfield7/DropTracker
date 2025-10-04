@@ -17,7 +17,7 @@ An organized list of active and upcoming airdrops across multiple chains, design
 14- idOS
 15- 0G Protocol
 16- Human Tech
-17- Pharos
+17- Pharos Network
 18- Taiko
 19- Monad
 20- Pi Squarred
