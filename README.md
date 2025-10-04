@@ -13,10 +13,10 @@ An organized list of active and upcoming airdrops across multiple chains, design
 10- Acurast Hub
 11- Tea-Fi
 12- Play Hub
-13- Pulse
+13- Pulse 
 14- idOS
 15- 0G Protocol
-16- Human
+16- Human Tech
 17- Pharos
 18- Taiko
 19- Monad
