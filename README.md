@@ -9,7 +9,7 @@ An organized list of active and upcoming airdrops across multiple chains, design
 6- Base 
 7- Edgen 
 8- Somnia Quest
-9- Linea
+9- Linea Hub
 10- Acurast Hub
 11- Tea-Fi
 12- Play Hub
