@@ -23,3 +23,4 @@ An organized list of active and upcoming airdrops across multiple chains, design
 20- Pi Squarred
 21- Intuition
 22- Cetus
+23- 
