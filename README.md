@@ -8,6 +8,7 @@ An organized list of active and upcoming airdrops across multiple chains, design
 2- Nexus Node
 - Run node + tasks
 3- Plume Season 2
+- Swaps
 4- Ink 
 5- Soneium Badges
 6- Base 
