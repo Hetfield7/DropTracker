@@ -3,7 +3,7 @@ An organized list of active and upcoming airdrops across multiple chains, design
 
 1- Opensea Chests
  - Swap tokens
- - Swap 
+ - Swap NFTs
 2- Nexus Node
 3- Plume Season 2
 4- Ink 
