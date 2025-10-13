@@ -6,7 +6,7 @@ An organized list of active and upcoming airdrops across multiple chains, design
  - Swap NFTs
  - Tasks
 2- Nexus Node
-- Run
+- Run node
 3- Plume Season 2
 4- Ink 
 5- Soneium Badges
