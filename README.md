@@ -14,7 +14,7 @@ An organized list of active and upcoming airdrops across multiple chains, design
 - Supply tokens
 - Stake Plume
 4- Ink
-- Guild 
+- Guild task
 5- Soneium Badges
 6- Base 
 7- Edgen 
