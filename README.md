@@ -13,7 +13,8 @@ An organized list of active and upcoming airdrops across multiple chains, design
 - LEND and Borrow
 - Supply tokens
 - Stake Plume
-4- Ink 
+4- Ink
+- Guild 
 5- Soneium Badges
 6- Base 
 7- Edgen 
