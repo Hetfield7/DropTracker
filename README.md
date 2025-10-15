@@ -25,7 +25,8 @@ An organized list of active and upcoming airdrops across multiple chains, design
 9- Linea Hub
 10- Acurast Hub
 11- Tea-Fi
-- Swaps
+- Swaps 
+- Tasks verify
 12- Play Hub
 13- Pulse 
 14- idOS
