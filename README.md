@@ -29,6 +29,7 @@ An organized list of active and upcoming airdrops across multiple chains, design
 11- Tea-Fi
 - Swaps 
 - Tasks verify
+- Lend + Borrow
 12- Play Hub
 13- Pulse 
 14- idOS
