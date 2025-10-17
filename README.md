@@ -31,6 +31,7 @@ An organized list of active and upcoming airdrops across multiple chains, design
 - Tasks verify
 - Lend + Borrow
 12- Play Hub
+- claim daily
 13- Pulse 
 14- idOS
 15- 0G Protocol
