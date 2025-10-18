@@ -16,7 +16,7 @@ An organized list of active and upcoming airdrops across multiple chains, design
 4- Ink
 - Guild task
 - Swaps
-- Lend
+- Lend and borrow
 5- Soneium Badges
 - Swaps 
 - Supply + Borrow
