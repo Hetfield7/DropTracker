@@ -40,6 +40,7 @@ An organized list of active and upcoming airdrops across multiple chains, design
 13- Pulse 
 14- idOS
 15- 0G Protocol
+- Run nodes
 16- Human Tech
 17- Pharos Network
 18- Taiko Trailblazers
