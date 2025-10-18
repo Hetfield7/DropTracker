@@ -17,10 +17,13 @@ An organized list of active and upcoming airdrops across multiple chains, design
 - Guild task
 - Swaps
 - Lend and borrow
+
 5- Soneium Badges
 - Swaps 
 - Supply + Borrow
+
 6- Base 
+- Swaps
 7- Edgen 
 8- Somnia Quest
 9- Linea Hub
