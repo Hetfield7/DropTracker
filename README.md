@@ -39,6 +39,7 @@ An organized list of active and upcoming airdrops across multiple chains, design
 - claim daily
 - Automat 
 13- Pulse 
+- Daily tasks
 14- idOS
 15- 0G Protocol
 - Run nodes
