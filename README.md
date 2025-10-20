@@ -38,6 +38,7 @@ An organized list of active and upcoming airdrops across multiple chains, design
 12- Play Hub
 - claim daily
 - Automat 
+- Autotime
 13- Pulse 
 - Daily tasks
 14- idOS
