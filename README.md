@@ -18,7 +18,7 @@ An organized list of active and upcoming airdrops across multiple chains, design
 - Guild task
 - Swaps
 - Lend and borrow
-- Track 
+- Track points 
 
 5- Soneium Badges
 - Swaps 
