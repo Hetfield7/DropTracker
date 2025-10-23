@@ -23,6 +23,7 @@ An organized list of active and upcoming airdrops across multiple chains, design
 5- Soneium Badges
 - Swaps 
 - Supply + Borrow
+- Mint badge
 
 6- Base 
 - Swaps
