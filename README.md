@@ -25,6 +25,7 @@ An organized list of active and upcoming airdrops across multiple chains, design
 - Supply + Borrow
 - Mint badge
 - tasks Site 
+- Arkada 
 
 6- Base 
 - Swaps
