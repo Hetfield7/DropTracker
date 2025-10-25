@@ -14,7 +14,8 @@ An organized list of active and upcoming airdrops across multiple chains, design
 - LEND and Borrow
 - Supply tokens
 - Stake Plume
-4- Ink
+
+4- Ink 
 - Guild task
 - Swaps
 - Lend and borrow
@@ -32,6 +33,7 @@ An organized list of active and upcoming airdrops across multiple chains, design
 - Supply + borrow
 - Onchain Score
 - Builder Score
+- Tasks
 
 7- Edgen 
 8- Somnia Quest
