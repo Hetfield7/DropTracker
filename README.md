@@ -34,7 +34,7 @@ An organized list of active and upcoming airdrops across multiple chains, design
 - Onchain Score
 - Builder Score
 - Tasks Guild
-- Learn 
+- Learn Base
 
 7- Edgen 
 8- Somnia Quest
