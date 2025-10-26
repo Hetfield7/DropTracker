@@ -27,7 +27,7 @@ An organized list of active and upcoming airdrops across multiple chains, design
 - Mint badge
 - tasks Site 
 - Arkada badges
-- Tasks
+- Tasks Weekend
 
 6- Base 
 - Swaps
