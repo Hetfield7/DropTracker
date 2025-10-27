@@ -38,6 +38,7 @@ An organized list of active and upcoming airdrops across multiple chains, design
 - Learn Base Tasks
 
 7- Edgen 
+- Task
 8- Somnia Quest
 9- Linea Hub
 - Swap + Send
