@@ -30,7 +30,7 @@ An organized list of active and upcoming airdrops across multiple chains, design
 - Tasks Weekend
 
 6- Base 
-- Swaps
+- Swaps diary
 - Supply + borrow
 - Onchain Score
 - Builder Score Tasks
