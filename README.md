@@ -9,7 +9,7 @@ An organized list of active and upcoming airdrops across multiple chains, design
 2- Nexus Node
 - Run node
 - Opperate nodes
-- Social 
+- Social tasks
 
 3- Plume Season 2
 - Swaps
