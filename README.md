@@ -5,9 +5,12 @@ An organized list of active and upcoming airdrops across multiple chains, design
  - Swap tokens
  - Swap NFTs
  - Daily Tasks 
+ 
 2- Nexus Node
-- Run node + tasks
+- Run node
 - Opperate nodes
+- Social 
+
 3- Plume Season 2
 - Swaps
 - Tasks
