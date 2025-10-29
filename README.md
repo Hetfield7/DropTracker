@@ -46,9 +46,13 @@ An organized list of active and upcoming airdrops across multiple chains, design
 - Subscrition 
 
 8- Somnia Quest
+- Swaps
+
 9- Linea Hub
 - Swap + Send
 - LEND - borrow
+
+
 10- Acurast Hub
 11- Tea-Fi
 - Swaps 
