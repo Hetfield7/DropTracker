@@ -49,6 +49,7 @@ An organized list of active and upcoming airdrops across multiple chains, design
 - Swaps
 - Borrow 
 - Tasks
+- Lend
 
 9- Linea Hub
 - Swap + Send
