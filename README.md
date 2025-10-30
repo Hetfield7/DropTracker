@@ -58,10 +58,13 @@ An organized list of active and upcoming airdrops across multiple chains, design
 
 
 10- Acurast Hub
+- Run 
+
 11- Tea-Fi
 - Swaps 
 - Tasks verify
 - Lend + Borrow in Tydro
+
 12- Play Hub
 - claim daily
 - Automat 
