@@ -55,6 +55,7 @@ An organized list of active and upcoming airdrops across multiple chains, design
 - Swap + Send
 - LEND - borrow
 - Stake
+- Myriad 
 
 
 10- Acurast Hub
