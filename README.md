@@ -48,7 +48,7 @@ An organized list of active and upcoming airdrops across multiple chains, design
 8- Somnia Quest
 - Swaps
 - Borrow 
-- Tasks
+- Tasks Odyssey
 - Lend + stake
 
 9- Linea Hub
