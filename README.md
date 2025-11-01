@@ -63,10 +63,11 @@ An organized list of active and upcoming airdrops across multiple chains, design
 - Run Mobile Nodes
 - Complete tasks
 
+
 11- Tea-Fi
 - Swaps 
 - Tasks verify
-- Lend + Borrow in Tydro
+- Stake
 
 12- Play Hub
 - claim daily
