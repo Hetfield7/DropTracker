@@ -61,7 +61,7 @@ An organized list of active and upcoming airdrops across multiple chains, design
 
 10- Acurast Hub
 - Run Mobile Nodes
-- Complete
+- Complete tasks
 
 11- Tea-Fi
 - Swaps 
