@@ -51,7 +51,7 @@ An organized list of active and upcoming airdrops across multiple chains, design
 - Borrow 
 - Tasks Odyssey
 - Lend + stake
-- Hold 
+- Hold NFTs
 
 9- Linea Hub
 - Swap + Send
