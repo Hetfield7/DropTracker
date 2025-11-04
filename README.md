@@ -44,7 +44,6 @@ An organized list of active and upcoming airdrops across multiple chains, design
 - Task socials
 - Rate Posts
 - Subscrition 
-- 
 
 8- Somnia Quest
 - Swaps
@@ -57,7 +56,7 @@ An organized list of active and upcoming airdrops across multiple chains, design
 - Swap + Send
 - LEND - borrow
 - Stake
-- Myriad 
+- Myriad Market
 
 
 10- Acurast Hub
