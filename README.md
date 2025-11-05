@@ -77,7 +77,9 @@ An organized list of active and upcoming airdrops across multiple chains, design
 13- Pulse 
 - Daily tasks
 - Socialfi
+
 14- idOS
+-  Tasks
 15- 0G Protocol
 - Run nodes
 - Testnet user
