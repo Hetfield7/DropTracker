@@ -76,6 +76,7 @@ An organized list of active and upcoming airdrops across multiple chains, design
 - Autotime
 13- Pulse 
 - Daily tasks
+- Socialfi
 14- idOS
 15- 0G Protocol
 - Run nodes
