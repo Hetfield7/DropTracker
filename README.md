@@ -77,6 +77,7 @@ An organized list of active and upcoming airdrops across multiple chains, design
 13- Pulse 
 - Daily tasks
 - Socialfi
+- Hold 
 
 14- idOS
 -  Tasks
