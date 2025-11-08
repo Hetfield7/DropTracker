@@ -87,6 +87,7 @@ An organized list of active and upcoming airdrops across multiple chains, design
 
 16- Human Tech
 - Guild tasks
+- Proof 
 17- Pharos Network
 18- Taiko Trailblazers
 19- Monad
