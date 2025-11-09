@@ -89,7 +89,9 @@ An organized list of active and upcoming airdrops across multiple chains, design
 - Guild tasks
 - Proof humanity Score
 
-17- Pharos Network
+17- Pharos Network (TESTNET)
+
+
 18- Taiko Trailblazers
 19- Monad
 20- Pi Squarred
