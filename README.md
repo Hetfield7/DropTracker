@@ -100,4 +100,4 @@ An organized list of active and upcoming airdrops across multiple chains, design
 23- Owlto
 24- Orochi Network
 25- Galxe
-- Social
+- Social tasks
