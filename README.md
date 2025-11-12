@@ -95,6 +95,7 @@ An organized list of active and upcoming airdrops across multiple chains, design
 - Money markets
 
 18- Taiko Trailblazers
+- END
 19- Monad
 20- Pi Squarred
 21- Intuition
