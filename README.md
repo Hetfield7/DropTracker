@@ -98,7 +98,7 @@ An organized list of active and upcoming airdrops across multiple chains, design
 - END Campaign
 
 19- Monad
-- End
+- End Campaign
 20- Pi Squarred
 21- Intuition
 22- Cetus
