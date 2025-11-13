@@ -96,7 +96,9 @@ An organized list of active and upcoming airdrops across multiple chains, design
 
 18- Taiko Trailblazers
 - END Campaign
+
 19- Monad
+- End
 20- Pi Squarred
 21- Intuition
 22- Cetus
