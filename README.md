@@ -80,7 +80,8 @@ An organized list of active and upcoming airdrops across multiple chains, design
 - Hold tokens
 
 14- idOS
--  Tasks
+-  Tasks user
+
 15- 0G Protocol
 - Run nodes
 - Testnet user
