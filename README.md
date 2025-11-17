@@ -103,7 +103,7 @@ An organized list of active and upcoming airdrops across multiple chains, design
 
 20- Pi Squarred
 - Basic tasks
-- Social
+- Social Tasks
 
 21- Intuition
 - End Campaign
