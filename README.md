@@ -103,13 +103,11 @@ An organized list of active and upcoming airdrops across multiple chains, design
 
 20- Pi Squarred
 - Basic tasks
+- Social
 
 21- Intuition
 - End Campaign
 
-22- Cetus
-
-23- Owlto
 
 24- Orochi Network
 - End Campaign
