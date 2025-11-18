@@ -1,10 +1,11 @@
 # DropTracker
 An organized list of active and upcoming airdrops across multiple chains, designed for easy navigation.
 
-1- Opensea Chests
+1- Opensea Chests S3
  - Swap tokens
  - Swap NFTs
  - Daily Tasks 
+ 
  
 2- Nexus Node
 - Run node
