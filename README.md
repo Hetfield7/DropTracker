@@ -33,7 +33,7 @@ An organized list of active and upcoming airdrops across multiple chains, design
 - Arkada badges
 - Tasks Weekend
 
-6- Base 
+6- Base (L2)
 - Swaps diary
 - Supply + borrow
 - Onchain Score
