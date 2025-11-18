@@ -19,7 +19,7 @@ An organized list of active and upcoming airdrops across multiple chains, design
 - Supply tokens
 - Stake Plume
 
-4- Ink 
+4- Ink  (L2 Kraken)
 - Guild task
 - Swaps
 - Lend and borrow
