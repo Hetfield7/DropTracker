@@ -67,7 +67,7 @@ An organized list of active and upcoming airdrops across multiple chains, design
 
 
 11- Tea-Fi
-- END
+- END CAMPAIGN
 
 12- Play Hub
 - claim daily
