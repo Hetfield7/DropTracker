@@ -67,9 +67,7 @@ An organized list of active and upcoming airdrops across multiple chains, design
 
 
 11- Tea-Fi
-- Swaps 
-- Tasks verify
-- Stake + borrow
+- END
 
 12- Play Hub
 - claim daily
