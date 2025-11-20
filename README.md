@@ -40,6 +40,7 @@ An organized list of active and upcoming airdrops across multiple chains, design
 - Builder Score Tasks
 - Tasks Guild
 - Learn Base Tasks
+- Farcaster
 
 7- Edgen 
 - Task socials
