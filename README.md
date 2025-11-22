@@ -65,6 +65,7 @@ An organized list of active and upcoming airdrops across multiple chains, design
 - Run Mobile Nodes
 - Complete tasks
 - Hold NFTs
+- Stake
 
 
 11- Tea-Fi
