@@ -65,7 +65,7 @@ An organized list of active and upcoming airdrops across multiple chains, design
 - Run Mobile Nodes
 - Complete tasks
 - Hold NFTs
-- Stake
+- Stake ACU Tokens
 
 
 11- Tea-Fi
