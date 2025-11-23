@@ -59,7 +59,7 @@ An organized list of active and upcoming airdrops across multiple chains, design
 - LEND - borrow
 - Stake
 - Myriad Market
-- Entry
+- Entry markets
 
 
 10- Acurast Hub
