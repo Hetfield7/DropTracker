@@ -81,7 +81,7 @@ An organized list of active and upcoming airdrops across multiple chains, design
 - Daily tasks
 - Socialfi
 - Hold tokens
-- Tasks
+- Tasks Social
 
 14- idOS
 -  Tasks user
