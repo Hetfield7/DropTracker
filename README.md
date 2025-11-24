@@ -76,10 +76,12 @@ An organized list of active and upcoming airdrops across multiple chains, design
 - claim daily
 - Automat 
 - Autotime
+
 13- Pulse 
 - Daily tasks
 - Socialfi
 - Hold tokens
+- Tasks
 
 14- idOS
 -  Tasks user
