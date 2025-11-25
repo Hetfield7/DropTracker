@@ -74,7 +74,7 @@ An organized list of active and upcoming airdrops across multiple chains, design
 
 12- Play Hub
 - claim daily
-- Automat 
+- Automate tasks
 - Autotime
 
 13- Pulse 
