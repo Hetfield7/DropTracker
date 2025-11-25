@@ -56,8 +56,8 @@ An organized list of active and upcoming airdrops across multiple chains, design
 
 9- Linea Hub
 - Swap + Send
-- LEND - borrow
-- Stake
+- LEND and borrow
+- Stake Linea
 - Myriad Market
 - Entry markets
 
