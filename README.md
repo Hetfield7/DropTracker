@@ -89,6 +89,7 @@ An organized list of active and upcoming airdrops across multiple chains, design
 15- 0G Protocol
 - Run nodes
 - Testnet user
+- Tasks Protocol
 
 16- Human Tech
 - Guild tasks
