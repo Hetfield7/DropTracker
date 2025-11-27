@@ -25,7 +25,7 @@ An organized list of active and upcoming airdrops across multiple chains, design
 - Lend and borrow
 - Track points via Merkl
 
-5- Soneium Badges
+5- Soneium Badges (L2 SONY)
 - Swaps 
 - Supply + Borrow
 - Mint badge
