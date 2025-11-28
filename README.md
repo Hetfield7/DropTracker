@@ -1,4 +1,5 @@
 # DropTracker
+
 An organized list of active and upcoming airdrops across multiple chains, designed for easy navigation.
 
 1- Opensea Chests S3
@@ -53,6 +54,7 @@ An organized list of active and upcoming airdrops across multiple chains, design
 - Tasks Odyssey
 - Lend + stake
 - Hold NFTs
+- Mint 
 
 9- Linea Hub
 - Swap + Send
