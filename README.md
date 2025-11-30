@@ -12,6 +12,7 @@ An organized list of active and upcoming airdrops across multiple chains, design
 - Run node
 - Opperate nodes
 - Social tasks
+- Time 
 
 3- Plume Season 2
 - Swaps
