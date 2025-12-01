@@ -6,7 +6,7 @@ An organized list of active and upcoming airdrops across multiple chains, design
  - Swap tokens
  - Swap NFTs
  - Daily Tasks 
- 
+ - DEX Trade
  
 2- Nexus Node
 - Run node
