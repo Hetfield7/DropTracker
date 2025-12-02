@@ -50,8 +50,8 @@ An organized list of active and upcoming airdrops across multiple chains, design
 - Subscription Plan
 
 8- Somnia Quest
-- Swaps
-- Borrow 
+- Swaps 
+- Borrow / Lend
 - Tasks Odyssey
 - Lend + stake
 - Hold NFTs
@@ -63,7 +63,6 @@ An organized list of active and upcoming airdrops across multiple chains, design
 - Stake Linea
 - Myriad Market
 - Entry markets
-
 
 10- Acurast Hub
 - Run Mobile Nodes
@@ -87,7 +86,7 @@ An organized list of active and upcoming airdrops across multiple chains, design
 - Tasks Social
 
 14- idOS
--  Tasks user
+- Tasks user
 - Verify user
 
 15- 0G Protocol
