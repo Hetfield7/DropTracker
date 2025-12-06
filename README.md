@@ -14,7 +14,7 @@ An organized list of active and upcoming airdrops across multiple chains, design
 - Social tasks
 - Time front
 
-3- Plume Season 2
+3- Plume Season 2 ( Mainet )
 - Swaps
 - Tasks
 - LEND and Borrow
