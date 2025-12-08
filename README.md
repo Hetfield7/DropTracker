@@ -49,7 +49,7 @@ An organized list of active and upcoming airdrops across multiple chains, design
 - Rate Posts
 - Subscription Plan
 
-8- Somnia Quest
+8- Somnia Quest ( L2 Ethereum )
 - Swaps 
 - Borrow / Lend
 - Tasks Odyssey
