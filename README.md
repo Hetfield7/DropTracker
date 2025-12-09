@@ -79,7 +79,7 @@ An organized list of active and upcoming airdrops across multiple chains, design
 - Automate tasks
 - Autotime
 
-13- Pulse 
+13- Pulse (BOOST)
 - Daily tasks
 - Socialfi
 - Hold tokens
