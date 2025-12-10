@@ -89,7 +89,7 @@ An organized list of active and upcoming airdrops across multiple chains, design
 - Tasks user
 - Verify user
 
-15- 0G Protocol
+15- 0G Protocol ( Layer L1 )
 - Run nodes
 - Testnet user
 - Tasks Protocol
