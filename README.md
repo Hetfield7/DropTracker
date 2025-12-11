@@ -94,7 +94,7 @@ An organized list of active and upcoming airdrops across multiple chains, design
 - Testnet user
 - Tasks Protocol
 
-16- Human Tech
+16- Human Tech ( IDENTITY Platform )
 - Guild tasks
 - Proof humanity Score
 
