@@ -104,10 +104,10 @@ An organized list of active and upcoming airdrops across multiple chains, design
 - Money markets
 - Social Tasks
 
-18- Taiko Trailblazers
+18- Taiko Trailblazers 
 - END Campaign
 
-19- Monad
+19- Monad  ( L2 Ethereum )
 - End Campaign
 
 20- Pi Squarred
