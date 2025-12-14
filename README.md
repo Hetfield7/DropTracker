@@ -56,7 +56,6 @@ An organized list of active and upcoming airdrops across multiple chains, design
 - Lend + stake
 - Hold NFTs + mint NFts
 
-
 9- Linea Hub
 - Swap + Send
 - LEND and borrow
@@ -69,7 +68,6 @@ An organized list of active and upcoming airdrops across multiple chains, design
 - Complete tasks
 - Hold NFTs
 - Stake ACU Tokens
-
 
 11- Tea-Fi
 - END CAMPAIGN
@@ -90,8 +88,7 @@ An organized list of active and upcoming airdrops across multiple chains, design
 - Verify user
 
 15- 0G Protocol ( Layer L1 )
-- Run nodes
-- Testnet user
+- Run node
 - Tasks Protocol
 
 16- Human Tech ( IDENTITY Platform )
