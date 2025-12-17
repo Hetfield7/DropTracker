@@ -63,7 +63,7 @@ An organized list of active and upcoming airdrops across multiple chains, design
 - Myriad Market
 - Entry markets
 
-10- Acurast Hub
+10- Acurast Hub ( Depin Hub)
 - Run Mobile Nodes
 - Complete tasks
 - Hold NFTs
