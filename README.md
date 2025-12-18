@@ -111,7 +111,7 @@ An organized list of active and upcoming airdrops across multiple chains, design
 - Basic tasks
 - Social Tasks
 
-21- Intuition 
+21- Intuition ( Money Market)
 - End Campaign
 
 24- Orochi Network (L2 Layer )
