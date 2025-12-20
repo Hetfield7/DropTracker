@@ -56,7 +56,7 @@ An organized list of active and upcoming airdrops across multiple chains, design
 - Lend + stake
 - Hold NFTs + mint NFts
 
-9- Linea Hub
+9- Linea Hub ( L1 Ethereum )
 - Swap + Send
 - LEND and borrow
 - Stake Linea
