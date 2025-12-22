@@ -61,7 +61,6 @@ An organized list of active and upcoming airdrops across multiple chains, design
 - LEND and borrow
 - Stake Linea
 - Myriad Market
-- Entry markets
 
 10- Acurast Hub ( Depin Hub)
 - Run Mobile Nodes
@@ -72,7 +71,7 @@ An organized list of active and upcoming airdrops across multiple chains, design
 11- Tea-Fi ( Dapp Swap )
 - END CAMPAIGN
 
-12- Play Hub
+12- Play Hub ( IA Dapp )
 - claim daily Chest
 - Automate tasks
 - Autotime
