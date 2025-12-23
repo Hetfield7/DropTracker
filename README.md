@@ -8,7 +8,7 @@ An organized list of active and upcoming airdrops across multiple chains, design
  - Daily Tasks 
  - DEX Trade
  
-2- Nexus Node 
+2- Nexus Node (Depin )
 - Run node
 - Opperate nodes
 - Social tasks
