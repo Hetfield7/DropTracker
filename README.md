@@ -44,7 +44,7 @@ An organized list of active and upcoming airdrops across multiple chains, design
 - Learn Base Tasks
 - Farcaster engage
 
-7- Edgen Tech
+7- Edgen Tech ( Financial Tech )
 - Task socials
 - Rate Posts
 - Subscription Plan
