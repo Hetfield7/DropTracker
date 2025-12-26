@@ -76,18 +76,18 @@ An organized list of active and upcoming airdrops across multiple chains, design
 - Automate tasks
 - Autotime
 
-13- Pulse (BOOST)
+13- Pulse (BOOST Social)
 - Daily tasks
 - Socialfi
 - Hold tokens
 - Tasks Social
 
-14- idOS
+14- idOS 
 - Tasks user
 - Verify user
 
 15- 0G Protocol ( Layer L1 )
-- Run node
+- Run nodes
 - Tasks Protocol
 
 16- Human Tech ( IDENTITY Platform )
