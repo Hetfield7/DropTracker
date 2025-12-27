@@ -28,11 +28,11 @@ An organized list of active and upcoming airdrops across multiple chains, design
 - Track points via Merkl
 
 5- Soneium Badges (L2 SONY)
-- Swaps 
+- Swaps dapp
 - Supply + Borrow
-- Mint badge
+- Mint badges
 - tasks Site 
-- Arkada badges
+- Arkada badges 
 - Tasks Weekend
 
 6- Base (L2 / COINBASE )
