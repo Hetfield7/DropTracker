@@ -32,7 +32,7 @@ An organized list of active and upcoming airdrops across multiple chains, design
 - Supply + Borrow
 - Mint badges
 - tasks Site 
-- Arkada badges 
+- Arkada badge Quest
 - Tasks Weekend
 
 6- Base (L2 / COINBASE )
