@@ -42,7 +42,7 @@ An organized list of active and upcoming airdrops across multiple chains, design
 - Builder Score Tasks
 - Tasks Guild
 - Learn Base Tasks
-- Farcaster engage
+- Farcaster Social
 
 7- Edgen Tech ( Financial Tech )
 - Task socials
