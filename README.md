@@ -90,9 +90,9 @@ An organized list of active and upcoming airdrops across multiple chains, design
 - Run nodes
 - Tasks Protocol
 
-16- Human Tech ( IDENTITY Platform )
+16- Human Tech ( ID Platform )
 - Guild tasks
-- Proof humanity Score
+- Proof humanity Score 
 
 17- Pharos Network (TESTNET)
 - Action  Tasks 
