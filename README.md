@@ -12,13 +12,12 @@ An organized list of active and upcoming airdrops across multiple chains, design
 - Run node
 - Opperate nodes
 - Social tasks
-- Time front
 
 3- Plume Season 2 ( Mainet )
 - Swaps
 - Tasks
 - LEND and Borrow
-- Supply tokens
+- Supply capital
 - Stake Plume
 
 4- Ink  (L2 Kraken)
