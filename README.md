@@ -13,7 +13,7 @@ An organized list of active and upcoming airdrops across multiple chains, design
 - Opperate nodes
 - Social tasks
 
-3- Plume Season 2 ( Mainet )
+3- Plume Season 2 ( Mainet L2)
 - Swaps
 - Tasks
 - LEND and Borrow
