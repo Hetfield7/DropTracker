@@ -73,7 +73,7 @@ An organized list of active and upcoming airdrops across multiple chains, design
 12- Play Hub ( IA Dapp )
 - claim daily Chest
 - Automate tasks
-- Autotime
+- IA service
 
 13- Pulse (BOOST Social)
 - Daily tasks
