@@ -15,7 +15,7 @@ An organized list of active and upcoming airdrops across multiple chains, design
 
 3- Plume Season 2 ( Mainet L2)
 - Swaps
-- Tasks
+- App Tasks 
 - LEND and Borrow
 - Supply capital
 - Stake Plume
