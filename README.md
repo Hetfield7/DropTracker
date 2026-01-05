@@ -71,9 +71,7 @@ An organized list of active and upcoming airdrops across multiple chains, design
 - END CAMPAIGN
 
 12- Play Hub ( IA Dapp )
-- claim daily Chest
-- Automate tasks
-- IA service
+- End Campaign
 
 13- Pulse (BOOST Social)
 - Daily tasks
