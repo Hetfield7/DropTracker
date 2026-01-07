@@ -79,7 +79,7 @@ An organized list of active and upcoming airdrops across multiple chains, design
 - Hold tokens
 - Tasks Social
 
-14- idOS 
+14- idOS ( identity )
 - Tasks user
 - Verify user
 
