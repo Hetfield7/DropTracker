@@ -68,10 +68,10 @@ An organized list of active and upcoming airdrops across multiple chains, design
 - Stake ACU Tokens
 
 11- Tea-Fi ( Dapp Swap )
-- END CAMPAIGN
+- ENDED CAMPAIGN
 
 12- Play Hub ( IA Dapp )
-- End Campaign
+- Ended Campaign
 
 13- Pulse (BOOST Social)
 - Daily tasks
