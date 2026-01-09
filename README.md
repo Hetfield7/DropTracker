@@ -4,7 +4,7 @@ An organized list of active and upcoming airdrops across multiple chains, design
 
 1- Opensea Chests S4 ( Marketplace)
  - Swap/trade tokens
- - Swap NFTs
+ - Trade NFTs
  - Daily Tasks 
  - DEX Trade
  
