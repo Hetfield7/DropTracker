@@ -53,7 +53,7 @@ An organized list of active and upcoming airdrops across multiple chains, design
 - Borrow / Lend
 - Tasks Odyssey
 - Lend + stake
-- Hold NFTs + mint NFts
+- Hold NFTs + mint
 
 9- Linea Hub ( L1 Ethereum )
 - Swap + Send
