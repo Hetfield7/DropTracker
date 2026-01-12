@@ -23,7 +23,7 @@ An organized list of active and upcoming airdrops across multiple chains, design
 4- Ink  (L2 Kraken)
 - Guild task
 - Swaps
-- Lend and borrow
+- Lend & borrow via Tydro
 - Track points via Merkl
 
 5- Soneium Badges (L2 SONY)
