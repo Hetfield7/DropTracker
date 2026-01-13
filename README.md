@@ -89,7 +89,7 @@ An organized list of active and upcoming airdrops across multiple chains, design
 - Guild tasks
 - Proof humanity Score 
 
-17- Pharos Network (TESTNET)
+17- Pharos Network (TESTNET L1 )
 - Action  Tasks 
 - Mint NFTs
 - Money markets
