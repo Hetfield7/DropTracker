@@ -54,10 +54,10 @@ An organized list of active and upcoming airdrops across multiple chains, design
 - Hold NFTs + mint
 
 9- Linea Hub ( L1 Ethereum )
-- Swap + Send
+- Swap + Send tokens
 - LEND and borrow
 - Stake Linea
-- Myriad Market
+- Myriad Markets
 
 10- Acurast Hub ( Depin Hub)
 - Run Mobile Nodes
