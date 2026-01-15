@@ -2,7 +2,7 @@
 
 An organized list of active and upcoming airdrops across multiple chains, designed for easy navigation.
 
-1- Opensea Chests S4 ( Marketplace)
+1- Opensea Wave S5 ( Marketplace)
  - Swap/trade tokens
  - Trade NFTs
  - Daily Tasks 
