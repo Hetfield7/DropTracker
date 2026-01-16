@@ -25,7 +25,7 @@ An organized list of active and upcoming airdrops across multiple chains, design
 - Swaps
 - Lend & borrow via Tydro
 - Track points via Merkl
-- Trade Perps
+- PerpTrade via Nado 
 
 5- Soneium Badges (L2 SONY)
 - Swaps dapp
