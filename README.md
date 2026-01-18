@@ -61,7 +61,7 @@ An organized list of active and upcoming airdrops across multiple chains, design
 - Myriad Markets
 
 10- Acurast Hub ( Depin Hub)
-- Run Mobile Nodes
+- Run Mobile/CPU Nodes
 - Complete tasks
 - Hold NFTs
 - Stake ACU Tokens
