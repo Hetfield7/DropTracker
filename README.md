@@ -21,10 +21,10 @@ An organized list of active and upcoming airdrops across multiple chains, design
 - Stake Plume
 
 4- Ink  (L2 Kraken)
-- Guild task
+- Guild tasks
 - Swaps
 - Lend & borrow via Tydro
-- Track points via Merkl
+- Track points airdrop via Merkl
 - PerpTrade via Nado 
 
 5- Soneium Badges (L2 SONY)
