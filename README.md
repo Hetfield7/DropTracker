@@ -28,10 +28,10 @@ An organized list of active and upcoming airdrops across multiple chains, design
 - PerpTrade via Nado 
 
 5- Soneium Badges (L2 SONY)
-- Swaps dapp
-- Supply + Borrow
+- Swaps dapps
+- Supply / Borrow
 - Mint badges
-- tasks Site 
+- daily tasks
 - Arkada badge Quest
 - Tasks Weekend
 
