@@ -83,8 +83,7 @@ An organized list of active and upcoming airdrops across multiple chains, design
 - Verify user
 
 15- 0G Protocol ( Layer L1 )
-- Run nodes montly
-- Tasks Protocol
+- END Campaign
 
 16- Human Tech ( ID Platform )
 - Guild tasks
