@@ -87,7 +87,7 @@ An organized list of active and upcoming airdrops across multiple chains, design
 
 16- Human Tech ( ID Platform )
 - Guild tasks
-- Proof humanity Score 
+- Proof humanity Score ID
 
 17- Pharos Network (TESTNET L1 )
 - Action  Tasks 
@@ -102,7 +102,7 @@ An organized list of active and upcoming airdrops across multiple chains, design
 - End Campaign
 
 20- Pi Squarred
-- Basic tasks
+- Chain tasks
 - Social Tasks
 
 21- Intuition ( Money Market)
