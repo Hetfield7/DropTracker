@@ -114,3 +114,6 @@ An organized list of active and upcoming airdrops across multiple chains, design
 25- Galxe ( Tasks  Platform )
 - Social tasks
   Stake G
+
+26- Startale
+- 
