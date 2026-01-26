@@ -117,3 +117,4 @@ An organized list of active and upcoming airdrops across multiple chains, design
 
 26- Startale
 - Montly tasks
+- Liquidity pool
