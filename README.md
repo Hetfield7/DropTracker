@@ -119,4 +119,4 @@ An organized list of active and upcoming airdrops across multiple chains, design
 - Montly tasks
 - Liquidity pool
 - GM points
-- Referral Points
+- Invite Points
