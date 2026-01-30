@@ -20,14 +20,14 @@ An organized list of active and upcoming airdrops across multiple chains, design
 - Supply capital
 - Stake Plume
 
-4- Ink  (L2 Kraken)
+4- Ink Chain (L2 Kraken)
 - Guild tasks
 - Swaps
 - Lend & borrow via Tydro
 - Track points airdrop via Merkl
 - PerpTrade via Nado 
 
-5- Soneium Badges (L2 SONY)
+5- Soneium Chain (L2 SONY)
 - Swaps dapps
 - Supply / Borrow
 - Mint badges
