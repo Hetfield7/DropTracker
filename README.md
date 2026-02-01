@@ -115,7 +115,7 @@ An organized list of active and upcoming airdrops across multiple chains, design
 - Social tasks
   Stake G token
 
-26- Startale
+26- Startale App
 - Montly tasks
 - Liquidity pool
 - GM points
