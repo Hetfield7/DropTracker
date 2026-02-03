@@ -79,7 +79,7 @@ An organized list of active and upcoming airdrops across multiple chains, design
 - Tasks Social
 
 14- idOS ( identity )
-- Tasks user
+- User tasks
 - Verify user
 - Play quiz 
 
@@ -106,7 +106,7 @@ An organized list of active and upcoming airdrops across multiple chains, design
 - Chain tasks
 - Social Tasks
 
-21- Intuition ( Money Market)
+21- Intuition 
 - End Campaign
 
 24- Orochi Network (L2 Layer )
@@ -121,4 +121,4 @@ An organized list of active and upcoming airdrops across multiple chains, design
 - Liquidity pool
 - GM points
 - Invite Points
-- Daily Tasks
+- Daily Task
