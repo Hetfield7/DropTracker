@@ -40,6 +40,7 @@ An organized list of active and upcoming airdrops across multiple chains, design
 - Supply + borrow
 - Onchain Score
 - Builder Score Tasks
+- Creator Score
 - Tasks Guild Base
 - Learn Base Tasks
 - Farcaster Social
