@@ -74,7 +74,7 @@ An organized list of active and upcoming airdrops across multiple chains, design
 - Ended Campaign
 
 13- Pulse (BOOST Social)
-- END
+- END CAMPAIGN
 
 14- idOS ( identity )
 - User tasks
