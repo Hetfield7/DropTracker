@@ -74,10 +74,7 @@ An organized list of active and upcoming airdrops across multiple chains, design
 - Ended Campaign
 
 13- Pulse (BOOST Social)
-- Daily tasks
-- Socialfi
-- Hold tokens
-- Tasks Social
+- END
 
 14- idOS ( identity )
 - User tasks
