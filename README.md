@@ -22,7 +22,7 @@ An organized list of active and upcoming airdrops across multiple chains, design
 
 4- Ink Chain (L2 Kraken)
 - Guild tasks
-- Swaps
+- Swaps Dapp
 - Lend & borrow via Tydro
 - Track points airdrop via Merkl
 - PerpTrade via Nado 
