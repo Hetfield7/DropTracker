@@ -65,7 +65,6 @@ An organized list of active and upcoming airdrops across multiple chains, design
 10- Acurast Hub ( Depin Hub)
 - Run Mobile/CPU Nodes
 - Complete tasks
-- Hold NFTs
 - Stake ACU Tokens
 
 11- Tea-Fi ( Dapp Swap )
