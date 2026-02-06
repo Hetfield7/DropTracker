@@ -44,7 +44,7 @@ An organized list of active and upcoming airdrops across multiple chains, design
 - Tasks Guild Base
 - Learn Base Tasks
 - Farcaster Social
-- Base App
+- Base App Posts
 
 7- Edgen Tech ( Financial Tech )
 - Task social 
