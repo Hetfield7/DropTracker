@@ -95,6 +95,7 @@ An organized list of active and upcoming airdrops across multiple chains, design
 - Social Tasks
 
 18- Taiko Trailblazers ( L2 Ethereum Layer)
+- ENDED CAMPAIGN 
 
 19- Monad  ( L2 Ethereum )
 - End Campaign
