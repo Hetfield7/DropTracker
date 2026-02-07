@@ -53,8 +53,8 @@ An organized list of active and upcoming airdrops across multiple chains, design
 8- Somnia Quest ( L2 Ethereum )
 - Swaps / Borrow / Lend
 - Tasks Odyssey
-- Lend + stake
-- Hold NFTs + mint
+- Lend / stake
+- Hold NFTs
 
 9- Linea Hub ( L1 Ethereum )
 - Swap + Send tokens
