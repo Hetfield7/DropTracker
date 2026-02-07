@@ -107,7 +107,7 @@ An organized list of active and upcoming airdrops across multiple chains, design
 21- Intuition 
 - End Campaign
 
-24- Orochi Network (L2 Layer )
+24- Orochi Network
 - End Campaign
 
 25- Galxe ( Tasks  Platform )
