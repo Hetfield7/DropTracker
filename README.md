@@ -97,8 +97,12 @@ An organized list of active and upcoming airdrops across multiple chains, design
 18- Taiko Trailblazers ( L2 Ethereum Layer)
 - ENDED CAMPAIGN 
 
-19- Monad  ( L2 Ethereum )
-- End Campaign
+19- Startale App
+- Montly tasks
+- Liquidity pool
+- GM points
+- Invite Points
+- Daily Task
 
 20- Pi Squarred
 - Chain tasks
