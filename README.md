@@ -48,7 +48,7 @@ An organized list of active and upcoming airdrops across multiple chains, design
 
 7- Edgen Tech ( Financial Tech )
 - Task social 
-- Rate Posts
+- Rating Posts
 
 8- Somnia Quest ( L2 Ethereum )
 - Swaps / Borrow / Lend
