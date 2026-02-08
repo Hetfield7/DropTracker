@@ -107,17 +107,16 @@ An organized list of active and upcoming airdrops across multiple chains, design
 21- Intuition 
 - End Campaign
 
-24- Orochi Network
-- End Campaign
+24-Startale App
+- Montly tasks
+- Liquidity pool
+- GM points
+- Invite Points
+- Daily Task
 
 25- Galxe ( Tasks  Platform )
 - Social tasks
 - Stake G token
 - Onchain Tasks
 
-26- Startale App
-- Montly tasks
-- Liquidity pool
-- GM points
-- Invite Points
-- Daily Task
+
