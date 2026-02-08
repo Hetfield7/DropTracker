@@ -114,9 +114,4 @@ An organized list of active and upcoming airdrops across multiple chains, design
 - Invite Points
 - Daily Task
 
-23- Galxe ( Tasks  Platform )
-- Social tasks
-- Stake G token
-- Onchain Tasks
-
 
