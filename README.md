@@ -67,8 +67,9 @@ An organized list of active and upcoming airdrops across multiple chains, design
 - Complete tasks
 - Stake ACU Tokens
 
-11- Tea-Fi ( Dapp Swap )
-- ENDED CAMPAIGN
+16- Human Tech ( ID Platform )
+- Guild tasks
+- Proof humanity Score ID
 
 12- Play Hub ( IA Dapp )
 - Ended Campaign
