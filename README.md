@@ -111,11 +111,5 @@ An organized list of active and upcoming airdrops across multiple chains, design
 21- Intuition 
 - End Campaign
 
-22- Startale App
-- Montly tasks
-- Liquidity pool
-- GM points
-- Invite Points
-- Daily Task
 
 
