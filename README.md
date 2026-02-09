@@ -108,9 +108,6 @@ An organized list of active and upcoming airdrops across multiple chains, design
 - Invite Points
 - Daily Task
 
-20- Pi Squarred
-- Chain tasks
-- Social Tasks
 
 
 
