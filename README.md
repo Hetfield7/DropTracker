@@ -112,8 +112,5 @@ An organized list of active and upcoming airdrops across multiple chains, design
 - Chain tasks
 - Social Tasks
 
-21- Intuition 
-- End Campaign
-
 
 
