@@ -101,13 +101,6 @@ An organized list of active and upcoming airdrops across multiple chains, design
 - Invite Points
 - Daily Task
 
-19- Startale App
-- Montly tasks
-- Liquidity pool
-- GM points
-- Invite Points
-- Daily Task
-
 
 
 
