@@ -74,9 +74,6 @@ An organized list of active and upcoming airdrops across multiple chains, design
 12- Play Hub ( IA Dapp )
 - Ended Campaign
 
-13- Pulse (BOOST Social)
-- END CAMPAIGN
-
 14- idOS ( identity )
 - User tasks
 - Verify user
