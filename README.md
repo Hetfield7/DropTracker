@@ -76,13 +76,13 @@ An organized list of active and upcoming airdrops across multiple chains, design
 13- 0G Protocol ( Layer L1 )
 - END Campaign
 
-15- Pharos Network (TESTNET L1 )
+14- Pharos Network (TESTNET L1 )
 - Action  Tasks 
 - Mint NFTs
 - Money markets
 - Social Tasks
 
-16- Startale App
+15- Startale App
 - Montly tasks
 - Liquidity pool
 - GM points
