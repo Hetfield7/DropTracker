@@ -56,24 +56,24 @@ An organized list of active and upcoming airdrops across multiple chains, design
 - Lend / stake
 - Hold NFTs
 
-10- Acurast Hub ( Depin Hub)
+9- Acurast Hub ( Depin Hub)
 - Run Mobile/CPU Nodes
 - Complete tasks
 - Stake ACU Tokens
 
-11- Human Tech ( ID Platform )
+10- Human Tech ( ID Platform )
 - Guild tasks
 - Proof humanity Score ID
 
-12- Play Hub ( IA Dapp )
+11- Play Hub ( IA Dapp )
 - Ended Campaign
 
-13- idOS ( identity )
+12- idOS ( identity )
 - User tasks
 - Verify user
 - Play quiz 
 
-14- 0G Protocol ( Layer L1 )
+13- 0G Protocol ( Layer L1 )
 - END Campaign
 
 15- Pharos Network (TESTNET L1 )
