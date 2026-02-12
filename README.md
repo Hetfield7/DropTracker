@@ -1,4 +1,4 @@
-# Drop Tracker
+# Airdrop Tracker
 
 An organized list of active and upcoming airdrops across multiple chains, designed for easy navigation.
 
