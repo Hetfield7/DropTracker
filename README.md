@@ -1,4 +1,4 @@
-# DropTracker
+# Drop Tracker
 
 An organized list of active and upcoming airdrops across multiple chains, designed for easy navigation.
 
@@ -9,7 +9,7 @@ An organized list of active and upcoming airdrops across multiple chains, design
  - DEX Trade
  
 2- Nexus Node (Depin )
-- Run node
+- Run nodes
 - Opperate nodes
 - Social tasks
 
@@ -27,7 +27,7 @@ An organized list of active and upcoming airdrops across multiple chains, design
 - Track points airdrop via Merkl
 - PerpTrade via Nado 
 
-5- Soneium Chain (L2 SONY)
+5- Soneium Chain Seasons (L2 SONY)
 - Swaps dapps
 - Supply / Borrow
 - Mint badges
