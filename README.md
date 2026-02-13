@@ -65,15 +65,15 @@ An organized list of active and upcoming airdrops across multiple chains, design
 - Guild tasks
 - Proof humanity Score ID
 
-12- idOS ( identity )
+11- idOS ( identity )
 - User tasks
 - Verify user
 - Play quiz 
 
-13- 0G Protocol ( Layer L1 )
+12- 0G Protocol ( Layer L1 )
 - END Campaign
 
-14- Pharos Network (TESTNET L1 )
+13- Pharos Network (TESTNET L1 )
 - Action  Tasks 
 - Mint NFTs
 - Money markets
