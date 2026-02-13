@@ -65,9 +65,6 @@ An organized list of active and upcoming airdrops across multiple chains, design
 - Guild tasks
 - Proof humanity Score ID
 
-11- Play Hub ( IA Dapp )
-- Ended Campaign
-
 12- idOS ( identity )
 - User tasks
 - Verify user
