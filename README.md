@@ -79,7 +79,7 @@ An organized list of active and upcoming airdrops across multiple chains, design
 - Money markets
 - Social Tasks
 
-15- Startale App ( Soneium Group )
+14- Startale App ( Soneium Group )
 - Montly tasks
 - Liquidity pool
 - GM points
