@@ -39,7 +39,7 @@ An organized list of active and upcoming airdrops across multiple chains, design
 - Swaps diary
 - Supply + borrow
 - Onchain Score
-- Builder Score Tasks
+- Builder Score
 - Creator Score
 - Tasks Guild Base
 - Learn Base Tasks
