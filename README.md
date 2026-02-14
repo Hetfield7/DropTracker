@@ -65,7 +65,7 @@ An organized list of active and upcoming airdrops across multiple chains, design
 - Guild tasks
 - Proof humanity Score ID
 
-11- idOS ( identity )
+11- idOS ( identity user)
 - User tasks
 - Verify user
 - Play quiz 
