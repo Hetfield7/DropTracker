@@ -50,7 +50,7 @@ An organized list of active and upcoming airdrops across multiple chains, design
 - Task social 
 - Rating Posts
 
-8- Somnia Quest ( L2 Ethereum )
+8- Somnia Quest ( L2 )
 - Swaps / Borrow / Lend
 - Tasks Odyssey
 - Lend / stake
@@ -69,14 +69,13 @@ An organized list of active and upcoming airdrops across multiple chains, design
 - Verify user
 - Play quiz 
 
-
 12- Pharos Network (TESTNET L1 )
 - Action  Tasks 
 - Mint NFTs
 - Money markets
 - Social Tasks
 
-14- Startale App ( Soneium Group )
+13- Startale App ( Soneium Group )
 - Montly tasks
 - Liquidity pool
 - GM points
