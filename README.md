@@ -59,7 +59,6 @@ An organized list of active and upcoming airdrops across multiple chains, design
 9- Acurast Hub ( Depin Hub)
 - Run Mobile/CPU Nodes
 - Complete tasks
-- Stake ACU Tokens
 
 10- Human Tech ( ID Platform )
 - Guild tasks
@@ -70,10 +69,8 @@ An organized list of active and upcoming airdrops across multiple chains, design
 - Verify user
 - Play quiz 
 
-12- 0G Protocol ( Layer L1 )
-- END Campaign
 
-13- Pharos Network (TESTNET L1 )
+12- Pharos Network (TESTNET L1 )
 - Action  Tasks 
 - Mint NFTs
 - Money markets
@@ -84,7 +81,7 @@ An organized list of active and upcoming airdrops across multiple chains, design
 - Liquidity pool
 - GM points
 - Invite Points
-- Daily Task
+- Daily Tasks
 
 
 
