@@ -74,6 +74,7 @@ An organized list of active and upcoming airdrops across multiple chains, design
 - Mint NFTs
 - Money markets
 - Social Tasks
+- Discord
 
 13- Startale App ( Soneium Group )
 - Montly tasks
@@ -82,7 +83,3 @@ An organized list of active and upcoming airdrops across multiple chains, design
 - Invite Points
 - Daily Tasks
 - Spin Task Event
-
-
-
-
