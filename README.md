@@ -70,7 +70,7 @@ An organized list of active and upcoming airdrops across multiple chains, design
 - Play quiz 
 
 12- Pharos Network (TESTNET L1 )
-- Action  Tasks 
+- Daily 
 - Mint NFTs
 - Money markets
 - Social Tasks
