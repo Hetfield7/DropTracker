@@ -36,7 +36,7 @@ An organized list of active and upcoming airdrops across multiple chains, design
 - Tasks Weekend
 
 6- Base (L2 / COINBASE )
-- Swaps diary
+- Swaps tx
 - Supply + borrow
 - Onchain Score
 - Builder Score
