@@ -63,6 +63,7 @@ An organized list of active and upcoming airdrops across multiple chains, design
 10- Human Tech ( ID Platform )
 - Guild tasks
 - Proof humanity Score ID
+- The covenant
 
 11- idOS ( identity user)
 - User tasks
