@@ -7,7 +7,7 @@ An organized list of active and upcoming airdrops across multiple chains, design
  - Trade NFTs
  - Daily Tasks 
  - DEX Trade
- - Campaign
+ - Campaign Montly
  
 2- Nexus Node (Depin )
 - Run nodes
