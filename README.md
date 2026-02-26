@@ -84,5 +84,5 @@ An organized list of active and upcoming airdrops across multiple chains, design
 - GM points
 - Invite Points
 - Daily Tasks
-- Spin Task Event 
+- Spin Task Event Lunar
 - Galxe task Soneium
