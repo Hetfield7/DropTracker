@@ -60,6 +60,7 @@ An organized list of active and upcoming airdrops across multiple chains, design
 9- Acurast Hub ( Depin Hub)
 - Run Mobile/CPU Nodes
 - Complete tasks
+- Depin
 
 10- Human Tech ( ID Platform )
 - Guild tasks
