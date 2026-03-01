@@ -70,7 +70,7 @@ An organized list of active and upcoming airdrops across multiple chains, design
 11- idOS ( identity user)
 - User tasks
 - Verify user
-- Complete quiz 
+- Complete quiz User
 
 12- Pharos Network (TESTNET L1 )
 - Daily tasks
