@@ -61,6 +61,7 @@ An organized list of active and upcoming airdrops across multiple chains, design
 - Run Mobile/CPU Nodes
 - Complete tasks
 - Depin Mobile
+- Tasks
 
 10- Human Tech ( ID Platform )
 - Guild tasks
