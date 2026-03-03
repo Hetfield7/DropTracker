@@ -76,7 +76,7 @@ An organized list of active and upcoming airdrops across multiple chains, design
 12- Pharos Network (TESTNET L1 )
 - Daily tasks
 - Mint NFTs
-- Testnet
+- Testnet TX
 - Social Tasks
 - Discord Roles
 
