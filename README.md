@@ -56,6 +56,7 @@ An organized list of active and upcoming airdrops across multiple chains, design
 - Tasks Odyssey
 - Lend / stake
 - NFT POINTS
+- GM 
 
 9- Acurast Hub ( Depin Hub)
 - Run Mobile/CPU Nodes
