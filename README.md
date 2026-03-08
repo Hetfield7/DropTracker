@@ -59,10 +59,7 @@ An organized list of active and upcoming airdrops across multiple chains, design
 - GM points
 
 9- Acurast Hub ( Depin Hub)
-- Run Mobile/CPU Nodes
-- Complete tasks
-- Depin Mobile
-- Mobile Tasks
+- END CAMPAIGN
 
 10- Human Tech ( ID Platform )
 - Guild tasks
