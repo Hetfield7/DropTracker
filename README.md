@@ -66,17 +66,14 @@ An organized list of active and upcoming airdrops across multiple chains, design
 - Proof humanity Score ID
 - The covenant
 
-11- idOS ( identity user)
-- END CAMPAIGN
-
-12- Pharos Network (TESTNET L1 )
+11- Pharos Network (TESTNET L1 )
 - Daily tasks
 - Mint NFTs
 - Testnet Transactions
 - Social Tasks
 - Discord Roles
 
-13- Startale App ( Soneium Group )
+12- Startale App ( Soneium Group )
 - Montly tasks
 - Liquidity pool
 - GM points daily
