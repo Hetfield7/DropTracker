@@ -58,9 +58,6 @@ An organized list of active and upcoming airdrops across multiple chains, design
 - NFT POINTS
 - GM points
 
-9- Acurast Hub ( Depin Hub)
-- END CAMPAIGN
-
 10- Human Tech ( ID Platform )
 - Guild tasks
 - Proof humanity Score ID
