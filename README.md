@@ -58,19 +58,19 @@ An organized list of active and upcoming airdrops across multiple chains, design
 - NFT POINTS
 - GM points
 
-10- Human Tech ( ID Platform )
+9- Human Tech ( ID Platform )
 - Guild tasks
 - Proof humanity Score ID
 - The covenant
 
-11- Pharos Network (TESTNET L1 )
+10- Pharos Network (TESTNET L1 )
 - Daily tasks
 - Mint NFTs
 - Testnet Transactions
 - Social Tasks
 - Discord Roles
 
-12- Startale App ( Soneium Group )
+11- Startale App ( Soneium Group )
 - Montly tasks
 - Liquidity pool
 - GM points daily
