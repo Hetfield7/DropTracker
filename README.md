@@ -47,7 +47,7 @@ An organized list of active and upcoming airdrops across multiple chains, design
 - Farcaster Social
 - Base App Posts
 
-7- Edgen Tech ( Financial Tech )
+7- Edgen Tech ( Fin Tech )
 - Task social 
 - Rating Posts
 
