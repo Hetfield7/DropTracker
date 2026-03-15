@@ -56,6 +56,7 @@ An organized list of active and upcoming airdrops across multiple chains, design
 - Lend / stake
 - NFT POINTS
 - GM points
+- Play 
 
 9- Human Tech ( ID Platform )
 - Guild tasks
