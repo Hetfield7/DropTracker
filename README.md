@@ -73,7 +73,7 @@ An organized list of active and upcoming airdrops across multiple chains, design
 11- Startale App ( Soneium Group )
 - Montly tasks
 - Liquidity pool
-- GM points daily
+- GM Task daily
 - Invite Points
 - Daily Tasks
 - Spin Task Event Lunar
