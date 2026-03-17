@@ -59,7 +59,7 @@ An organized list of active and upcoming airdrops across multiple chains, design
 - Play Games
 
 9- Human Tech ( ID Platform )
-- Guild tasks
+- Guild tasks ID
 - Proof humanity Score ID
 - The covenant Phase
 
