@@ -43,7 +43,7 @@ An organized list of active and upcoming airdrops across multiple chains, design
 - Creator Score
 - Tasks Guild Base
 - Learn Base Tasks
-- Farcaster Social
+- Farcaster Social Onboard
 - Base App Posts
 
 7- Edgen Tech ( Fin Tech )
