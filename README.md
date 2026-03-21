@@ -60,7 +60,7 @@ An organized list of active and upcoming airdrops across multiple chains, design
 
 9- Human Tech ( ID Platform )
 - Guild tasks ID
-- Proof humanity Score ID
+- Proof humanity Score
 - The covenant Phase
 
 10- Pharos Network (TESTNET L1 )
