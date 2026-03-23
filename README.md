@@ -78,3 +78,4 @@ An organized list of active and upcoming airdrops across multiple chains, design
 - Daily Tasks
 - Spin Task Event Lunar
 - Galxe tasks Soneium
+- Sazonal 
