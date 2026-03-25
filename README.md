@@ -68,11 +68,11 @@ An organized list of active and upcoming airdrops across multiple chains, design
 - Mint NFTs
 - Testnet Transactions
 - Social Tasks
-- Discord Roles
+- Discord Roles 
 
 11- Startale App ( Soneium Group )
-- Montly tasks
-- Liquidity pool
+- Montly tasks 
+- Liquidity pools
 - GM Task daily
 - Invite Points
 - Daily Tasks
