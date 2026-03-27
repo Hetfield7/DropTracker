@@ -31,7 +31,7 @@ An organized list of active and upcoming airdrops across multiple chains, design
 5- Soneium Chain Seasons (L2 SONY)
 - Swaps dapps
 - Supply / Borrow
-- Mint badges
+- Mint badges Montly
 - daily tasks
 - Arkada badge Quest
 - Tasks Weekend
