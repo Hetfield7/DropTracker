@@ -74,8 +74,7 @@ An organized list of active and upcoming airdrops across multiple chains, design
 - Montly tasks 
 - Liquidity pools
 - GM Task daily
-- Invite Points
+- Invite Points 
 - Daily Tasks
-- Spin Task Event Lunar
 - Galxe tasks Soneium
-- Sazonal event Startale
+- Sazonal events
