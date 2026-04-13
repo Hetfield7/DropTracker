@@ -27,6 +27,7 @@ An organized list of active and upcoming airdrops across multiple chains, design
 - Lend & borrow via Tydro
 - Track points airdrop via Merkl
 - PerpTrade via Nado 
+- Perptrade via Kraken
 
 5- Soneium Chain Seasons (L2 SONY)
 - Swaps dapps
@@ -46,7 +47,7 @@ An organized list of active and upcoming airdrops across multiple chains, design
 - Farcaster Social Onboard
 - Base App Posts Daily
 
-7- Edgen Tech ( Fin Tech )
+7- Edgen Tech ( FinTech )
 - Task social 
 - Rating Posts
 
