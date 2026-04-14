@@ -29,7 +29,7 @@ An organized list of active and upcoming airdrops across multiple chains, design
 - PerpTrade via Nado 
 - Perptrade via Kraken
 
-5- Soneium Chain Seasons (L2 SONY)
+5- Soneium Chain Season 9 (L2 SONY)
 - Swaps dapps
 - Supply / Borrow
 - Mint badges Montly
