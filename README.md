@@ -70,6 +70,7 @@ An organized list of active and upcoming airdrops across multiple chains, design
 - Testnet Transactions
 - Social Tasks
 - Discord Roles 
+- Staking 
 
 11- Startale App ( Soneium Group )
 - Montly tasks 
