@@ -10,12 +10,8 @@ An organized list of active and upcoming airdrops across multiple chains, design
 - Opperate nodes
 - Social tasks
 
-3- Plume Season 2 ( Mainnet L2) - Ending Soon
-- Swaps
-- App Tasks 
-- LEND and Borrow
-- Supply capital
-- Stake Plume
+3- Plume Season 2 ( Mainnet L2)
+ END CAMPAIGN
 
 4- Ink Chain (L2 Kraken)
 - Guild tasks
