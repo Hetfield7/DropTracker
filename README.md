@@ -57,12 +57,7 @@ An organized list of active and upcoming airdrops across multiple chains, design
 - The covenant Phase 2
 
 10- Pharos Network (TESTNET L1 )
-- Daily tasks
-- Mint NFTs
-- Testnet Transactions
-- Social Tasks
-- Discord Roles 
-- Staking 
+END CAMPAIGN
 
 11- Startale App ( Soneium Group )
 - Montly tasks 
