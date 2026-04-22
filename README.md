@@ -41,7 +41,7 @@ An organized list of active and upcoming airdrops across multiple chains, design
 
 7- Edgen Tech ( FinTech )
 - Task social 
-- Rating Posts
+- Rating Posts Timeline
 
 8- Somnia Quest ( END SOON)
 - Swaps / Borrow / Lend
