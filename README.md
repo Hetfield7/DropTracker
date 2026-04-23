@@ -56,10 +56,7 @@ An organized list of active and upcoming airdrops across multiple chains, design
 - Proof humanity Score
 - The covenant Phase 2
 
-10- Pharos Network (TESTNET L1 )
-END CAMPAIGN
-
-11- Startale App ( Soneium Group )
+10- Startale App ( Soneium Group )
 - Montly tasks 
 - Liquidity pools
 - GM Task daily
