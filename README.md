@@ -43,7 +43,7 @@ An organized list of active and upcoming airdrops across multiple chains, design
 - Task social 
 - Rating Posts Timeline
 
-8- Somnia Quest ( END SOON)
+8- Somnia Quest ( ENDING SOON)
 - Swaps / Borrow / Lend
 - Odyssey tasks
 - Lend / stake
