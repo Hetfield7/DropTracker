@@ -41,11 +41,7 @@ An organized list of active and upcoming airdrops across multiple chains, design
 - Rating Posts Timeline
 
 7- Somnia Quest ( ENDING SOON)
-- Swaps / Borrow / Lend
-- Odyssey tasks
-- Lend / stake
-- NFT POINTS
-- GM points
+END 
 
 8- Human Tech ( ID Platform )
 - Guild tasks ID
