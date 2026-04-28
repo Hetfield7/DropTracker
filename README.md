@@ -40,8 +40,8 @@ An organized list of active and upcoming airdrops across multiple chains, design
 - Task social 
 - Rating Posts Timeline
 
-7- Somnia Quest ( ENDING SOON)
-END 
+7- Somnia Quest 
+END CAMPAIGN
 
 8- Human Tech ( ID Platform )
 - Guild tasks ID
