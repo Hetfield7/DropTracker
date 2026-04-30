@@ -43,7 +43,7 @@ An organized list of active and upcoming airdrops across multiple chains, design
 END CAMPAIGN
 
 8- Human Tech ( ID Platform )
-- Guild tasks ID
+- Guild tasks ID human
 - Proof humanity Score
 - The covenant Phase 2
 
