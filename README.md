@@ -5,7 +5,7 @@ An organized list of active and upcoming airdrops across multiple chains, design
 1- Opensea Wave S6 (Final )
  END CAMPAIGN
  
-2- Nexus Node (Depin )
+2- Nexus Node (ending soon)
 - Run nodes
 - Opperate nodes
 - Social tasks
