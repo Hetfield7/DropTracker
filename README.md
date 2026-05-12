@@ -6,9 +6,7 @@ An organized list of active and upcoming airdrops across multiple chains, design
  END CAMPAIGN
  
 2- Nexus Node (ending soon)
-- Run nodes
-- Opperate nodes
-- Social tasks
+ END CAMPAIGN
 
 3- Ink Chain (L2 Kraken)
 - Guild tasks
