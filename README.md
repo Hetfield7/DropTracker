@@ -34,7 +34,7 @@ An organized list of active and upcoming airdrops across multiple chains, design
 - Learn Base Tasks
 
 6- Edgen Tech ( FinTech )
-- Task social 
+- Task social line
 - Rating Posts Timeline
 
 7- Somnia Quest 
