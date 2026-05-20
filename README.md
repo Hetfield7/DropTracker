@@ -4,11 +4,8 @@ An organized list of active and upcoming airdrops across multiple chains, design
 
 1- Opensea Wave S6 (Final )
  END CAMPAIGN
- 
-2- Nexus Node (ending soon)
- END CAMPAIGN
 
-3- Ink Chain (L2 Kraken)
+2- Ink Chain (L2 Kraken)
 - Guild tasks
 - Swaps Dapp
 - Lend & borrow via Tydro
