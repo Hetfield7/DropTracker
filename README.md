@@ -20,7 +20,6 @@ An organized list of active and upcoming airdrops across multiple chains, design
 - daily tasks
 - Arkada badge Quest
 - Tasks Weekend
-- Carnival Quests
 
 5- Base Chain (L2 / COINBASE )
 - Supply + borrow + lend
@@ -49,3 +48,4 @@ END CAMPAIGN
 - Invite Points 
 - Daily Tasks
 - Galxe tasks Soneium
+- Carnival Quest 
