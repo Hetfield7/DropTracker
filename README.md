@@ -48,4 +48,4 @@ END CAMPAIGN
 - Invite Points 
 - Daily Tasks
 - Galxe tasks Soneium
-- Carnival Quest APP
+- Carnival Quest APP Tasks
