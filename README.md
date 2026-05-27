@@ -3,7 +3,7 @@ DropTracker
 An organized list of active and upcoming airdrops across multiple chains, designed for easy navigation.
 
 1- Opensea Wave S6 (Final )
- END CAMPAIGN
+ END CAMPAIGN TASKS
 
 2- Ink Chain (L2 Kraken)
 - Guild tasks
