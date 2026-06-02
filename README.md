@@ -45,7 +45,7 @@ END CAMPAIGN TASKS (Distribution time)
 - Montly tasks 
 - Liquidity pools
 - GM Task daily
-- Invite Points Task
+- Invite Points Tasks
 - Daily Tasks
 - Galxe tasks Soneium (NON)
 - Carnival Quest APP
