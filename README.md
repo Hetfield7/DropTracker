@@ -27,7 +27,7 @@ An organized list of active and upcoming airdrops across multiple chains, design
 - Builder Score
 - Creator Score
 - Tasks Guild Base
-- Learn Base Tasks
+- Learn Base Tasks site
 
 6- Edgen Tech ( FinTech )
 - Task social line
