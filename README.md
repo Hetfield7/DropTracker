@@ -48,4 +48,4 @@ END CAMPAIGN TASKS (Distribution time)
 - Invite Points Tasks
 - Daily Tasks
 - Galxe tasks Soneium (NON)
-- Carnival Quest APP
+- Carnival Quests APP 
