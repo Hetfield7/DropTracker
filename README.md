@@ -34,7 +34,7 @@ An organized list of active and upcoming airdrops across multiple chains, design
 - Rating Posts Timeline list
 
 7- Somnia Quest Season 2
-END CAMPAIGN TASKS (Distribution time)
+END CAMPAIGN TASKS (Distribution)
 
 8- Human Tech ( ID Platform )
 - Guild tasks ID human
