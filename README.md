@@ -47,5 +47,5 @@ END CAMPAIGN TASKS (Distribution)
 - GM Task daily
 - Invite Points
 - Daily Tasks
-- Galxe tasks Soneium (NON)
+- Galxe tasks Soneium
 - Carnival Quests APP 
