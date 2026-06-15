@@ -34,7 +34,7 @@ An organized list of active and upcoming airdrops across multiple chains, design
 - Rating Posts
 
 7- Somnia Quest Season 2
-END CAMPAIGN TASKS
+END CAMPAIGN TASK
 
 8- Human Tech ( ID Platform )
 - Guild tasks ID
