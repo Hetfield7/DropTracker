@@ -42,7 +42,7 @@ END CAMPAIGN TASKS
 - The covenant Phase 2
 
 9- Startale App ( Soneium Group )
-- Montly tasks
+- Montly tasks app
 - Liquidity pools
 - GM Task daily
 - Invite Points
