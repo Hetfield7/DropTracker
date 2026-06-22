@@ -31,7 +31,7 @@ An organized list of active and upcoming airdrops across multiple chains, design
 
 6- Edgen Tech ( FinTech )
 - Task social line
-- Rating Posts
+- Rating Posts Timeline
 
 7- Somnia Quest Season 2
 END CAMPAIGN TASKS
