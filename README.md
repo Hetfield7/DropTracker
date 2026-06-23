@@ -20,7 +20,7 @@ An organized list of active and upcoming airdrops across multiple chains, design
 - daily tasks
 - Arkada badge Quest
 
-5- Base Chain (L2 / COINBASE )
+5- Base (L2 / COINBASE )
 - Supply + borrow + lend
 - Onchain Score
 - Builder Score
