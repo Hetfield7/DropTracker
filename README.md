@@ -46,6 +46,6 @@ END CAMPAIGN TASKS
 - Liquidity pools
 - GM Task daily
 - Invite Points
-- Daily Tasks
+- Daily Tasks points
 - Galxe tasks Soneium
 - Carnival Quests APP 
