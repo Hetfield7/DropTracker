@@ -27,7 +27,7 @@ An organized list of active and upcoming airdrops across multiple chains, design
 - Creator Score
 - Tasks Guild Base
 - Learn Base Tasks
-- Talent Score
+- Talent Score points
 
 6- Edgen Tech ( FinTech )
 - Task social line
