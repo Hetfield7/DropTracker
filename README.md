@@ -30,7 +30,7 @@ An organized list of active and upcoming airdrops across multiple chains, design
 - Talent Score points
 
 6- Edgen Tech ( FinTech )
-- Task social line
+- Task social
 - Rating Posts
 
 7- Somnia Quest Season 2
