@@ -18,7 +18,6 @@ An organized list of active and upcoming airdrops across multiple chains, design
 - Supply / Borrow
 - Mint badges Montly
 - daily tasks
-- Arkada badge Quest
 
 5- Base (L2 / COINBASE )
 - Supply + borrow + lend
