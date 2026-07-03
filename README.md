@@ -32,9 +32,6 @@ An organized list of active and upcoming airdrops across multiple chains, design
 - Task social
 - Rating Posts
 
-7- Somnia Quest Season 2
-END CAMPAIGN
-
 8- Human Tech 
 - Guild tasks ID
 - Proof humanity Score
