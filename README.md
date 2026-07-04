@@ -30,7 +30,7 @@ An organized list of active and upcoming airdrops across multiple chains, design
 
 6- Edgen Tech ( FinTech )
 - Task social
-- Rating Posts
+- Rating Posts Timeline
 
 8- Human Tech 
 - Guild tasks ID
