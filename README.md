@@ -32,12 +32,12 @@ An organized list of active and upcoming airdrops across multiple chains, design
 - Task social
 - Rating Posts Timeline
 
-8- Human Tech 
+7- Human Tech 
 - Guild tasks ID
 - Proof humanity Score
 - The covenant Phase 2
 
-9- Startale App ( Soneium Group )
+8- Startale App ( Soneium Group )
 - Montly tasks app
 - Liquidity pools
 - GM Task daily
