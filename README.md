@@ -44,4 +44,3 @@ An organized list of active and upcoming airdrops across multiple chains, design
 - Invite Points
 - Daily Tasks points
 - Galxe tasks Soneium
-- Carnival Quests APP 
