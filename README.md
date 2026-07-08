@@ -17,7 +17,7 @@ An organized list of active and upcoming airdrops across multiple chains, design
 - Mint badges Montly
 - daily tasks
 
-5- Base (L2 / COINBASE )
+3- Base (L2 / COINBASE )
 - Supply + borrow + lend
 - Onchain Score
 - Builder Score
@@ -26,7 +26,7 @@ An organized list of active and upcoming airdrops across multiple chains, design
 - Learn Base Tasks
 - Talent Score
 
-6- Edgen Tech ( FinTech )
+4- Edgen Tech ( FinTech )
 - Task social
 - Rating Posts Timeline
 
