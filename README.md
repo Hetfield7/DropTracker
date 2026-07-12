@@ -35,7 +35,7 @@ An organized list of active and upcoming airdrops across multiple chains, design
 - Proof humanity Score
 - The covenant Phase 2
 
-6- Startale App ( Soneium Group )
+6- Startale App ( Soneium )
 - Montly tasks app
 - Liquidity pools
 - GM Task daily
