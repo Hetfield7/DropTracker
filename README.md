@@ -26,7 +26,7 @@ An organized list of active and upcoming airdrops across multiple chains, design
 - Learn Base Tasks
 - Talent Score Points
 
-4- Edgen Tech ( FinTech )
+4- Edgen Tech
 - Task social
 - Rating Posts Timeline
 
