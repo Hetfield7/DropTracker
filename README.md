@@ -41,4 +41,3 @@ An organized list of active and upcoming airdrops across multiple chains, design
 - GM Task daily
 - Invite Points
 - Daily Tasks points
-- Galxe tasks Soneium
