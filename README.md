@@ -19,7 +19,7 @@ An organized list of active and upcoming airdrops across multiple chains, design
 
 3- Base (L2 / COINBASE )
 - Supply + borrow + lend
-- Onchain Score
+- Onchain Score Points
 - Builder Score
 - Creator Score
 - Tasks Guild
