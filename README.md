@@ -9,7 +9,7 @@ An organized list of active and upcoming airdrops across multiple chains, design
 - Lend & borrow - Tydro
 - Track points airdrop via Merkl
 - PerpTrade via Nado 
-- Perptrade via Kraken
+- Perp-trade via Kraken
 
 2- Soneium Chain Season 9 (L2 SONY)
 - Swaps dapps
