@@ -22,7 +22,7 @@ An organized list of active and upcoming airdrops across multiple chains, design
 - Onchain Score Points
 - Builder Score
 - Creator Score
-- Tasks Guild
+- Tasks Guild Base
 - Learn Base Tasks
 - Talent Score Points
 
