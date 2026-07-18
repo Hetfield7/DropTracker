@@ -27,7 +27,7 @@ An organized list of active and upcoming airdrops across multiple chains, design
 - Talent Score Points
 
 4- Edgen Tech
-- Task social
+- Task social X
 - Rating Posts Timeline
 
 5- Human Tech 
