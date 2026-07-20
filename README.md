@@ -12,7 +12,7 @@ An organized list of active and upcoming airdrops across multiple chains, design
 - Perp-trade via Kraken
 
 2- Soneium Chain Season 9 (L2 SONY)
-- Swaps dapps
+- Swaps dapps L2
 - Supply / Borrow
 - Mint badges Montly
 - daily tasks
