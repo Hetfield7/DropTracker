@@ -24,7 +24,7 @@ An organized list of active and upcoming airdrops across multiple chains, design
 - Creator Score
 - Tasks Guild Base
 - Learn Base Tasks
-- Talent Score Points
+- Talent Score 
 
 4- Edgen Tech
 - Task social X
