@@ -28,7 +28,7 @@ An organized list of active and upcoming airdrops across multiple chains, design
 
 4- Edgen Tech
 - Task social X
-- Rating Posts Timeline
+- Rating Posts Timeline Line
 
 5- Human Tech 
 - Guild tasks ID
